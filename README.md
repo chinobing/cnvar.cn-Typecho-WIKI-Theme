@@ -2,8 +2,12 @@
 
 主要因为工作需要一个地方来存放notes，所以就弄了这样一个WIKI。主题里面的json生成部分来源于QQdie的"让 typecho 生成JSON 输出"。
 
+# 首页标题栏带标签 ，即时搜索
+![img](https://github.com/chinobing/cnvar.cn-Typecho-WIKI-Theme/raw/master/cnvar.gif)
 
-[](https://github.com/chinobing/cnvar.cn-Typecho-WIKI-Theme/raw/master/cnvar.gif)
-[](https://github.com/chinobing/cnvar.cn-Typecho-WIKI-Theme/raw/master/highlight.gif)
-[](https://github.com/chinobing/cnvar.cn-Typecho-WIKI-Theme/raw/master/mobile.gif)
+# 高亮文章关键字
+![img](https://github.com/chinobing/cnvar.cn-Typecho-WIKI-Theme/raw/master/highlight.gif)
+
+# 手机下的样式
+![img](https://github.com/chinobing/cnvar.cn-Typecho-WIKI-Theme/raw/master/mobile.gif)
 
