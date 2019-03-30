@@ -2,6 +2,8 @@
 
 主要因为工作需要一个地方来存放notes，所以就弄了这样一个WIKI。主题里面的json生成部分来源于QQdie的"让 typecho 生成JSON 输出"。
 
+使用方法：新建一个页面，名为“index”，然后选择“index-page”模版。 在“阅读设置” 里面设置“使用 index 页面作为首页” 即可
+
 预览地址：[ipo.cnvar.cn](https://ipo.cnvar.cn)
 
 
